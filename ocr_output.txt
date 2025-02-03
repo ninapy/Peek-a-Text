@@ -1,0 +1,144 @@
+Detected Text: Instructions: Fill in the first three columns
+Confidence: 0.90
+Bounding Box: [[np.int32(1042), np.int32(218)], [np.int32(1432), np.int32(218)], [np.int32(1432), np.int32(242)], [np.int32(1042), np.int32(242)]]
+----------------------------------------
+Detected Text: information from the manual and
+Confidence: 0.99
+Bounding Box: [[np.int32(1485), np.int32(218)], [np.int32(1798), np.int32(218)], [np.int32(1798), np.int32(242)], [np.int32(1485), np.int32(242)]]
+----------------------------------------
+Detected Text: the textbook Refer to the "AXE" table and fill in the fourth column: Use Avogadro to
+Confidence: 0.72
+Bounding Box: [[np.int32(1040), np.int32(244)], [np.int32(1826), np.int32(244)], [np.int32(1826), np.int32(274)], [np.int32(1040), np.int32(274)]]
+----------------------------------------
+Detected Text: build and optimize the molecular structure. Verify the geometric name you predict
+Confidence: 0.77
+Bounding Box: [[np.int32(1042), np.int32(274)], [np.int32(1808), np.int32(274)], [np.int32(1808), np.int32(304)], [np.int32(1042), np.int32(304)]]
+----------------------------------------
+Detected Text: with VSEPR and fill in the last two columns by measuring the bond distance and
+Confidence: 0.91
+Bounding Box: [[np.int32(1040), np.int32(302)], [np.int32(1796), np.int32(302)], [np.int32(1796), np.int32(334)], [np.int32(1040), np.int32(334)]]
+----------------------------------------
+Detected Text: bond angle_
+Confidence: 0.99
+Bounding Box: [[np.int32(1042), np.int32(336)], [np.int32(1152), np.int32(336)], [np.int32(1152), np.int32(362)], [np.int32(1042), np.int32(362)]]
+----------------------------------------
+Detected Text: Ucomel
+Confidence: 0.19
+Bounding Box: [[np.int32(1430), np.int32(380)], [np.int32(1480), np.int32(380)], [np.int32(1480), np.int32(388)], [np.int32(1430), np.int32(388)]]
+----------------------------------------
+Detected Text: Yan
+Confidence: 0.23
+Bounding Box: [[np.int32(1442), np.int32(394)], [np.int32(1470), np.int32(394)], [np.int32(1470), np.int32(402)], [np.int32(1442), np.int32(402)]]
+----------------------------------------
+Detected Text: Kond [istance
+Confidence: 0.35
+Bounding Box: [[np.int32(1507), np.int32(393)], [np.int32(1579), np.int32(393)], [np.int32(1579), np.int32(405)], [np.int32(1507), np.int32(405)]]
+----------------------------------------
+Detected Text: Fomula
+Confidence: 0.77
+Bounding Box: [[np.int32(1157), np.int32(409)], [np.int32(1201), np.int32(409)], [np.int32(1201), np.int32(421)], [np.int32(1157), np.int32(421)]]
+----------------------------------------
+Detected Text: Cemtral
+Confidence: 0.59
+Bounding Box: [[np.int32(1219), np.int32(409)], [np.int32(1259), np.int32(409)], [np.int32(1259), np.int32(421)], [np.int32(1219), np.int32(421)]]
+----------------------------------------
+Detected Text: Steric
+Confidence: 0.61
+Bounding Box: [[np.int32(1285), np.int32(407)], [np.int32(1317), np.int32(407)], [np.int32(1317), np.int32(421)], [np.int32(1285), np.int32(421)]]
+----------------------------------------
+Detected Text: Lone Faurs on
+Confidence: 0.44
+Bounding Box: [[np.int32(1339), np.int32(407)], [np.int32(1407), np.int32(407)], [np.int32(1407), np.int32(421)], [np.int32(1339), np.int32(421)]]
+----------------------------------------
+Detected Text: Fredicted 6y
+Confidence: 0.54
+Bounding Box: [[np.int32(1425), np.int32(409)], [np.int32(1489), np.int32(409)], [np.int32(1489), np.int32(421)], [np.int32(1425), np.int32(421)]]
+----------------------------------------
+Detected Text: between Central
+Confidence: 0.69
+Bounding Box: [[np.int32(1503), np.int32(409)], [np.int32(1585), np.int32(409)], [np.int32(1585), np.int32(421)], [np.int32(1503), np.int32(421)]]
+----------------------------------------
+Detected Text: Bond Angle ot
+Confidence: 0.70
+Bounding Box: [[np.int32(1593), np.int32(409)], [np.int32(1669), np.int32(409)], [np.int32(1669), np.int32(423)], [np.int32(1593), np.int32(423)]]
+----------------------------------------
+Detected Text: Aiam
+Confidence: 0.12
+Bounding Box: [[np.int32(1226), np.int32(426)], [np.int32(1254), np.int32(426)], [np.int32(1254), np.int32(434)], [np.int32(1226), np.int32(434)]]
+----------------------------------------
+Detected Text: Yumh -
+Confidence: 0.13
+Bounding Box: [[np.int32(1280), np.int32(426)], [np.int32(1320), np.int32(426)], [np.int32(1320), np.int32(434)], [np.int32(1280), np.int32(434)]]
+----------------------------------------
+Detected Text: the Centml
+Confidence: 0.44
+Bounding Box: [[np.int32(1345), np.int32(425)], [np.int32(1403), np.int32(425)], [np.int32(1403), np.int32(437)], [np.int32(1345), np.int32(437)]]
+----------------------------------------
+Detected Text: VSFPR (AXE
+Confidence: 0.74
+Bounding Box: [[np.int32(1421), np.int32(423)], [np.int32(1493), np.int32(423)], [np.int32(1493), np.int32(439)], [np.int32(1421), np.int32(439)]]
+----------------------------------------
+Detected Text: Atom anc
+Confidence: 0.38
+Bounding Box: [[np.int32(1520), np.int32(426)], [np.int32(1566), np.int32(426)], [np.int32(1566), np.int32(434)], [np.int32(1520), np.int32(434)]]
+----------------------------------------
+Detected Text: Ligand-C entral-
+Confidence: 0.47
+Bounding Box: [[np.int32(1589), np.int32(425)], [np.int32(1667), np.int32(425)], [np.int32(1667), np.int32(437)], [np.int32(1589), np.int32(437)]]
+----------------------------------------
+Detected Text: Aom
+Confidence: 0.52
+Bounding Box: [[np.int32(1360), np.int32(442)], [np.int32(1386), np.int32(442)], [np.int32(1386), np.int32(450)], [np.int32(1360), np.int32(450)]]
+----------------------------------------
+Detected Text: Method)
+Confidence: 0.92
+Bounding Box: [[np.int32(1435), np.int32(441)], [np.int32(1479), np.int32(441)], [np.int32(1479), np.int32(453)], [np.int32(1435), np.int32(453)]]
+----------------------------------------
+Detected Text: LiM
+Confidence: 0.24
+Bounding Box: [[np.int32(1526), np.int32(442)], [np.int32(1560), np.int32(442)], [np.int32(1560), np.int32(450)], [np.int32(1526), np.int32(450)]]
+----------------------------------------
+Detected Text: Leana
+Confidence: 0.25
+Bounding Box: [[np.int32(1612), np.int32(442)], [np.int32(1646), np.int32(442)], [np.int32(1646), np.int32(450)], [np.int32(1612), np.int32(450)]]
+----------------------------------------
+Detected Text: UCI;
+Confidence: 0.58
+Bounding Box: [[np.int32(1163), np.int32(491)], [np.int32(1191), np.int32(491)], [np.int32(1191), np.int32(507)], [np.int32(1163), np.int32(507)]]
+----------------------------------------
+Detected Text: KF,
+Confidence: 0.45
+Bounding Box: [[np.int32(1167), np.int32(635)], [np.int32(1189), np.int32(635)], [np.int32(1189), np.int32(649)], [np.int32(1167), np.int32(649)]]
+----------------------------------------
+Detected Text: NF,
+Confidence: 0.80
+Bounding Box: [[np.int32(1167), np.int32(709)], [np.int32(1189), np.int32(709)], [np.int32(1189), np.int32(723)], [np.int32(1167), np.int32(723)]]
+----------------------------------------
+Detected Text: SFa
+Confidence: 0.28
+Bounding Box: [[np.int32(1167), np.int32(781)], [np.int32(1189), np.int32(781)], [np.int32(1189), np.int32(795)], [np.int32(1167), np.int32(795)]]
+----------------------------------------
+Detected Text: This table is all you need for the
+Confidence: 0.54
+Bounding Box: [[np.int32(1000), np.int32(836)], [np.int32(1368), np.int32(836)], [np.int32(1368), np.int32(866)], [np.int32(1000), np.int32(866)]]
+----------------------------------------
+Detected Text: notebook preparation for this part of the lab
+Confidence: 0.73
+Bounding Box: [[np.int32(1375), np.int32(833)], [np.int32(1879), np.int32(833)], [np.int32(1879), np.int32(869)], [np.int32(1375), np.int32(869)]]
+----------------------------------------
+Detected Text: 6.36
+Confidence: 1.00
+Bounding Box: [[np.int32(277), np.int32(1027)], [np.int32(311), np.int32(1027)], [np.int32(311), np.int32(1045)], [np.int32(277), np.int32(1045)]]
+----------------------------------------
+Detected Text: 0:0 7
+Confidence: 0.29
+Bounding Box: [[np.int32(1679), np.int32(1031)], [np.int32(1709), np.int32(1031)], [np.int32(1709), np.int32(1045)], [np.int32(1679), np.int32(1045)]]
+----------------------------------------
+Detected Text: CC
+Confidence: 0.91
+Bounding Box: [[np.int32(1803), np.int32(1029)], [np.int32(1825), np.int32(1029)], [np.int32(1825), np.int32(1043)], [np.int32(1803), np.int32(1043)]]
+----------------------------------------
+Detected Text: using
+Confidence: 1.00
+Bounding Box: [[np.float64(1430.9909908090056), np.float64(213.1747742652155)], [np.float64(1487.8662079229487), np.float64(221.11408118745223)], [np.float64(1484.0090091909944), np.float64(246.8252257347845)], [np.float64(1427.1337920770513), np.float64(239.88591881254777)]]
+----------------------------------------
